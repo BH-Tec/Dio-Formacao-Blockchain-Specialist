@@ -28,6 +28,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📚 Lista dos Desafios
 
+### Desafios intermediários Javascript I
+
+- Batmain [ver aqui](./DesafioIntermediarioI1/main.js)
+- [ver aqui](./DesafioIntermediarioI2/main.js)
+- [ver aqui](./DesafioIntermediarioI3/main.js)
+
 ### Desafios Intermediários Javascript II
 
 - Idade em Dias [ver aqui](./DesafioIntermediarioII1/main.js)
