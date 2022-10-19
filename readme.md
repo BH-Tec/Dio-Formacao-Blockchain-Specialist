@@ -32,7 +32,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - Batmain [ver aqui](./DesafioIntermediarioI1/main.js)
 - Frota de Táxi [ver aqui](./DesafioIntermediarioI2/main.js)
-- [ver aqui](./DesafioIntermediarioI3/main.js)
+- Deu a louca no gerente [ver aqui](./DesafioIntermediarioI3/main.js)
 
 ### Desafios Intermediários Javascript II
 
