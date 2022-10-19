@@ -3,9 +3,9 @@
 // Correspondente a este valor, deve ser apresentado como resposta o mês do ano por extenso, em inglês,
 // com a primeira letra maiúscula.
 
-let lines = gets().split('\n')
+let monthNumber = gets().split('\n')
 
-let month = lines.shift()
+let month = monthNumber.shift()
 
 let months = {
   "1": "January",
@@ -20,6 +20,6 @@ let months = {
   "10": "October",
   "11": "November",
   "12": "December"
-};
+}
 
 print(months[month])
