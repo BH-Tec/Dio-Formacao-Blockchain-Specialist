@@ -22,4 +22,4 @@ let months = {
   "12": "December"
 };
 
-print(month)
+print(months[month])
