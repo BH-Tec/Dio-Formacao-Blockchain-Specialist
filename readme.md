@@ -25,3 +25,11 @@ Repositório criado para os desafios de códigos da Formação Formação Blockc
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+
+## 📚 Lista dos Desafios
+
+### Desafios Intermediários Javascript II
+
+- Idade em Dias [ver aqui](./DesafioIntermediario1/main.js)
+- [ver aqui]()
+- [ver aqui]()
