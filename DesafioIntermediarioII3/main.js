@@ -3,11 +3,9 @@
 // Correspondente a este valor, deve ser apresentado como resposta o mês do ano por extenso, em inglês,
 // com a primeira letra maiúscula.
 
-let monthNumber = gets().split('\n')
+const monthNumber = gets()
 
-let month = monthNumber.shift()
-
-let months = {
+const months = {
   "1": "January",
   "2": "February",
   "3": "March",
@@ -15,11 +13,11 @@ let months = {
   "5": "May",
   "6": "June",
   "7": "July",
-  "8": "Agost",
+  "8": "August",
   "9": "September",
   "10": "October",
   "11": "November",
   "12": "December"
 }
 
-print(months[month])
+print(months[`${monthNumber}`])
