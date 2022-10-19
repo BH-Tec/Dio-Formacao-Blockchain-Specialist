@@ -31,5 +31,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ### Desafios Intermediários Javascript II
 
 - Idade em Dias [ver aqui](./DesafioIntermediarioII1/main.js)
-- Coxinha de Bueno [ver aqui](./DesafioIntermediarioII2/main.j)
-- [ver aqui]()
+- Coxinha de Bueno [ver aqui](./DesafioIntermediarioII2/main.js)
+- Mês [ver aqui](./DesafioIntermediarioII3/main.js)
