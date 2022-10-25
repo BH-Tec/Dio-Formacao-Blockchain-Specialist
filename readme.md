@@ -39,3 +39,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Idade em Dias [ver aqui](./DesafioIntermediarioII1/main.js)
 - Coxinha de Bueno [ver aqui](./DesafioIntermediarioII2/main.js)
 - Mês [ver aqui](./DesafioIntermediarioII3/main.js)
+
+### Desafios Intermediários Javascript IIi
+
+- Tempo do Dobby [ver aqui](./DesafioIntermediarioIII1/main.js)
+- Conversão de Tempo [ver aqui](./DesafioIntermediarioIII2/main.js)
+- Rodízio de cavalos e carruagens [ver aqui](./DesafioIntermediarioIII3/main.js)
